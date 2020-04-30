@@ -1,0 +1,444 @@
+projects,category,stars,commits,LOC
+https://github.com/wwadge/bonecp,jdbc,543,579,17504
+https://github.com/b3log/latke,NA,NA,NA,NA
+https://github.com/dropwizard/metrics,monitoring,6967,"2,626",24841
+https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server,security,1165,"2,704",73467
+https://github.com/yahoo/mysql_perf_analyzer,performance,1388,47,48000
+https://github.com/apache/giraph,graph,546,"1,111",112966
+https://github.com/searchbox-io/Jest,database,1935,"1,147",23581
+https://github.com/PebbleTemplates/pebble,template engine,778,"1,163",21358
+https://github.com/larsgeorge/hbase-book,database,836,356,122718
+https://github.com/jOOQ/jOOQ,database,3781,"8,570",2030086
+https://github.com/xiaomoinfo/SpringBootUnity,framework,815,608,13964
+https://github.com/apache/bookkeeper,storage,930,"2,252",233708
+https://github.com/atilika/kuromoji,japanese morphological analyzer,688,431,14160
+https://github.com/scribejava/scribejava,security,5021,"1,143",12102
+https://github.com/hibernate/hibernate-validator,validator,752,"4,100",97887
+https://github.com/fengjiachun/Jupiter,framework,1145,"1,739",30955
+https://github.com/tinkerpop/gremlin,graph,1834,"1,227",33689
+https://github.com/shuzheng/zheng,framework,15283,"1,241",93064
+https://github.com/twitter/hbc,http client,860,241,6281
+https://github.com/apache/carbondata,storage,1041,"4,528",262335
+https://github.com/flyingsaucerproject/flyingsaucer,pdf,1448,"2,818",105263
+https://github.com/Percy0601/boot-dubbo,networking,344,25,1856
+https://github.com/im-qq/netty-chat,messaging,469,52,4650
+https://github.com/abel533/Mapper,database,5449,700,20746
+https://github.com/yandex-qatools/htmlelements,testing framework,248,479,5596
+https://github.com/modelmapper/modelmapper,bean mapping,1472,639,26091
+https://github.com/kiegroup/drools,rule engine,2915,"12,534",627826
+https://github.com/bazaarvoice/jolt,json,926,392,20165
+https://github.com/antlr/antlr4,natural language propocssing,7624,"7,441",155643
+https://github.com/kennycason/kumo,cloud application,408,233,5999
+https://github.com/vladmihalcea/high-performance-java-persistence,persistence,680,703,62396
+https://github.com/caelum/vraptor4,framework,343,"3,761",38331
+https://github.com/kenglxn/QRGen,qrcode,1177,301,3722
+https://github.com/Graylog2/graylog2-server,logging,5285,"16,563",204490
+https://github.com/jersey/jersey,rest frameworks,2917,"3,167",319593
+https://github.com/thinkaurelius/titan,graph database,5036,"4,434",245128
+https://github.com/quartz-scheduler/quartz,scheduler,3593,758,54068
+https://github.com/joshlong/boot-examples,networking,223,52,1979
+https://github.com/ralfstx/minimal-json,json,657,189,8254
+https://github.com/google/MOE,sync,364,259,16852
+https://github.com/pac4j/pac4j,security,1789,"2,625",40060
+https://github.com/larsga/Duke,database,577,637,18959
+https://github.com/robovm/robovm,compile,1620,"2,823",1745976
+https://github.com/eclipse/smarthome,embedded system,864,"5,161",235377
+https://github.com/datastax/java-driver,database,1140,"1,392",88520
+https://github.com/spullara/mustache.java,templating system,1494,"1,213",12915
+https://github.com/openzipkin/brave,distributed system,1813,"1,692",29812
+https://github.com/lviggiano/owner,configuration,735,958,14311
+https://github.com/apache/opennlp,natural language propocssing,929,"1,871",131998
+https://github.com/spring-projects/spring-data-neo4j,graph database,594,837,14304
+https://github.com/jmxtrans/jmxtrans,monitoring,1592,"1,422",28043
+https://github.com/Backelite/sonar-swift,sornar-qube,643,306,7424
+https://github.com/spring-cloud/spring-cloud-config,configuration,1544,"1,299",18795
+https://github.com/yegor256/s3auth,security,241,"1,028",10977
+https://github.com/knightliao/disconf,distributed system,5210,"1,158",72361
+https://github.com/sarxos/webcam-capture,hardware,1687,650,23483
+https://github.com/naver/ngrinder,testing framework,1087,"4,337",63351
+https://github.com/shardingjdbc/sharding-jdbc,database,10868,"24,911",59460
+https://github.com/webx/citrus,web framework,739,429,166934
+https://github.com/jsevellec/cassandra-unit,testing framework,404,479,5648
+https://github.com/structr/structr,graph database,571,"11,954",261193
+https://github.com/linkedin/pinot,storage,2522,"6,873",425664
+https://github.com/j-easy/easy-rules,rule engine,2222,598,5203
+https://github.com/httl/httl,template engine,332,677,31204
+https://github.com/hazelcast/hazelcast,storage,3708,"30,140",794148
+https://github.com/killme2008/Metamorphosis,distributed system,1261,378,90919
+https://github.com/google/guava,utility,36956,"5,258",342001
+https://github.com/JCTools/JCTools,concurrent,2300,928,30507
+https://github.com/killbill/killbill,platform,2064,"8,276",173869
+https://github.com/changmingxie/tcc-transaction,transaction,4556,177,35226
+https://github.com/dcm4che/dcm4che,utility,607,"2,523",223832
+https://github.com/vinumeris/lighthouse,bitcoin,311,416,19701
+https://github.com/lealone/Lealone,database,1406,"1,639",107059
+https://github.com/bitronix/btm,transaction,369,975,22766
+https://github.com/jacoco/jacoco,testing framework,2157,"1,676",47030
+https://github.com/mulesoft/mule,platform,113,"23,909",441828
+https://github.com/helun/Ektorp,storage,288,526,20960
+https://github.com/AxonFramework/AxonFramework,microservice,1994,"5,921",82383
+https://github.com/speedment/speedment,orm,1821,"4,667",109303
+https://github.com/Codecademy/EventHub,monitoring,1292,273,9521
+https://github.com/lordofthejars/nosql-unit,testing framework,371,442,35929
+https://github.com/liquibase/liquibase,database,2047,"7,930",138012
+https://github.com/jknack/handlebars.java,template engine,1124,947,31604
+https://github.com/eirslett/frontend-maven-plugin,plugin,3220,629,3830
+https://github.com/apache/pdfbox,pdf,1125,"8,861",155078
+https://github.com/javaparser/javaparser,development,3073,"6,451",148062
+https://github.com/caelum/caelum-stella,utility,547,"1,436",93895
+https://github.com/spotify/dockerfile-maven,docker,2114,203,2371
+https://github.com/kevinsawicki/http-request,networking,3065,446,5236
+https://github.com/jdbi/jdbi,database,1399,"4,199",43154
+https://github.com/spring-projects/spring-roo,framework,656,"6,402",148665
+https://github.com/hibernate/hibernate-search,search,352,"10,191",176136
+https://github.com/julianhyde/optiq,framework,231,839,148735
+https://github.com/apache/activemq,messaging,1726,"10,542",465564
+https://github.com/apache/incubator-pulsar,messaging,5407,"4,592",248928
+https://github.com/NGDATA/hbase-indexer,database,330,623,22420
+https://github.com/naver/pinpoint,distributed system,10222,"11,116",582558
+https://github.com/square/okhttp,networking,36828,"4,585",60069
+https://github.com/ramswaroop/jbot,miscellaneous,1105,302,7494
+https://github.com/scobal/seyren,monitoring,869,640,10975
+https://github.com/yahoo/omid,transaction,298,"1,169",21568
+https://github.com/orbit/orbit,distributed system,1448,419,23970
+https://github.com/vert-x3/vertx-web,build,746,"2,410",55202
+https://github.com/robo-code/robocode,game development,439,"2,423",85639
+https://github.com/graphhopper/map-matching,geospatial,553,347,4328
+https://github.com/ata4/disunity,toolset,2425,669,5012
+https://github.com/cglib/cglib,bytecode manipulation,3447,860,15585
+https://github.com/swagger-api/swagger-socket,rest frameworks,355,364,21262
+https://github.com/FluentLenium/FluentLenium,testing framework,729,"2,275",52491
+https://github.com/javaee-samples/javaee7-samples,template engine,2431,"1,526",51168
+https://github.com/JeffLi1993/springboot-learning-example,template engine,12745,161,5135
+https://github.com/FlowCI/flow-platform,continues integration,728,"1,889",42271
+https://github.com/glyptodon/guacamole-client,remote desktop,1001,"5,378",58122
+https://github.com/vespa-engine/vespa,big data serving engine,3149,"37,381",1413581
+https://github.com/OAuth-Apis/apis,security,594,431,37253
+https://github.com/orfjackal/retrolambda,lambda,3526,529,7387
+https://github.com/immutables/immutables,code generators,2650,"2,307",41723
+https://github.com/apache/avro,data structures,1556,"2,260",169726
+https://github.com/spring-cloud/spring-cloud-netflix,rest frameworks,3972,"2,670",39735
+https://github.com/a2888409/face2face,chating application,1349,101,6710
+https://github.com/springside/springside4,template engine,5761,"1,074",14109
+https://github.com/galenframework/galen,testing framework,1373,"1,555",62011
+https://github.com/KylinOLAP/Kylin,distributed system,560,"1,977",97468
+https://github.com/code4craft/webmagic,crawler,8911,"1,021",15614
+https://github.com/AsyncHttpClient/async-http-client,http client,5390,"4,075",31562
+https://github.com/umlet/umlet,uml,822,"1,810",43452
+https://github.com/electronicarts/ea-async,asynchronous,867,263,7087
+https://github.com/iluwatar/java-design-patterns,miscellaneous,57300,"2,422",38304
+https://github.com/qos-ch/slf4j,logging,1438,"1,669",20457
+https://github.com/dropwizard/dropwizard,rest frameworks,7600,"5,376",59588
+https://github.com/twitter/elephant-bird,twitter,1100,"1,374",26754
+https://github.com/javamelody/javamelody,monitoring,2173,"3,516",64819
+https://github.com/deeplearning4j/deeplearning4j,machine learning,11593,875,295434
+https://github.com/peholmst/vaadin4spring,web framework,267,739,9238
+https://github.com/iBase4J/iBase4J,distributed system,1429,"1,191",57969
+https://github.com/iipc/openwayback,wayback development,336,"3,392",64238
+https://github.com/spring-projects/spring-shell,cli,448,435,7359
+https://github.com/blackberry/WebWorks,platform,263,22,49824
+https://github.com/apache/curator,distributed system,2093,"2,679",57635
+https://github.com/alphazero/jredis,jdbc,303,314,17059
+https://github.com/amaembo/huntbugs,code analysis,301,580,28246
+https://github.com/xwiki/xwiki-platform,platform,518,"39,581",664594
+https://github.com/druid-io/druid,database,9563,"10,292",508540
+https://github.com/neo4j/neo4j,graph database,7659,"68,033",936487
+https://github.com/jbehave/jbehave-core,bdd,238,"2,428",109483
+https://github.com/jbox2d/jbox2d,physics engine,799,742,43623
+https://github.com/pgjdbc/pgjdbc,jdbc,802,"2,657",77012
+https://github.com/facebook/swift,serialization,860,595,31852
+https://github.com/alibaba/DataX,sync,5610,77,53104
+https://github.com/openhab/openhab2-addons,platform,1303,"4,693",266080
+https://github.com/openzipkin/zipkin,monitoring,12734,"2,384",60046
+https://github.com/FudanNLP/fnlp,natural language propocssing,2305,85,35027
+https://github.com/foxinmy/weixin4j,weixin,735,894,44808
+https://github.com/square/keywhiz,security,2205,"1,252",383151
+https://github.com/rubenlagus/TelegramBots,chating application,1826,750,22684
+https://github.com/RUB-NDS/WS-Attacker,testing framework,365,150,64319
+https://github.com/SeldonIO/seldon-server,machine learning,1420,"1,461",68089
+https://github.com/fabric8io/kubernetes-client,messaging,1346,"2,834",31838
+https://github.com/SmartBear/soapui,testing framework,1062,"7,418",252827
+https://github.com/confluentinc/kafka-rest,messaging,1517,"1,506",15107
+https://github.com/AlmasB/FXGL,game development,1348,"3,527",61387
+https://github.com/ctripcorp/apollo,microservice,20508,"2,362",67411
+https://github.com/tinkerpop/blueprints,graph model,1305,"1,766",61050
+https://github.com/apache/flink,machine learning,12738,"21,524",842616
+https://github.com/spring-cloud/spring-cloud-sleuth,sleuth,1256,"2,620",24587
+https://github.com/wocommunity/wonder,web framework,205,"13,867",681200
+https://github.com/Tencent/angel,machine learning,5780,"2,350",112375
+https://github.com/twitter/distributedlog,twitter,2268,92,79139
+https://github.com/cloudfoundry/cf-java-client,rest frameworks,293,"4,428",114683
+https://github.com/rest-assured/rest-assured,asynchronous,4653,"1,955",41814
+https://github.com/DozerMapper/dozer,bean mapping,1680,"1,065",44039
+https://github.com/spotify/apollo,microservice,1556,587,21137
+https://github.com/openhab/openhab1-addons,platform,3484,"9,684",474459
+https://github.com/alibaba/canal,database,13534,"1,378",44530
+https://github.com/languagetool-org/languagetool,natural language propocssing,3572,"37,891",493830
+https://github.com/allwefantasy/ServiceFramework,JVM and JDK,539,371,28145
+https://github.com/debop/hibernate-redis,orm,337,456,17335
+https://github.com/essentials/Essentials,server,658,"4,328",49113
+https://github.com/stuxuhai/HData,NA,,,6466
+https://github.com/vavr-io/vavr,functional programming,3762,"4,288",78923
+https://github.com/stevensouza/automon,monitoring,536,329,4078
+https://github.com/google/jimfs,miscellaneous,1768,429,17774
+https://github.com/datumbox/datumbox-framework,machine learning,1049,605,23099
+https://github.com/twitter/ambrose,twitter,1195,643,12350
+https://github.com/spring-cloud/spring-cloud-zookeeper,distributed system,436,506,6943
+https://github.com/apache/maven,build,2093,"10,660",106691
+https://github.com/apache/storm,distributed system,6064,"10,289",364438
+https://github.com/bootique/bootique,web framework,1285,"1,194",16497
+https://github.com/eclipse/che,cloud application,6038,"8,613",856660
+https://github.com/chanjarster/weixin-java-tools,weixin,2537,380,14974
+https://github.com/MoriTanosuke/glacieruploader,cli,243,229,3138
+https://github.com/neoremind/fluent-validator,validator,847,82,7725
+https://github.com/rackerlabs/blueflood,distributed system,591,"2,967",46306
+https://github.com/apache/hadoop,distributed system,10367,"23,774",3039792
+https://github.com/vladmihalcea/flexy-pool,database,783,335,9244
+https://github.com/RoaringBitmap/RoaringBitmap,data structures,1685,"1,990",56257
+https://github.com/appfuse/appfuse,web framework,398,"4,147",88089
+https://github.com/facebook/nifty,networking,887,315,20942
+https://github.com/vbauer/jackdaw,functional programming,302,141,4067
+https://github.com/magro/memcached-session-manager,session manager,736,669,20671
+https://github.com/BaseXdb/basex,database,463,"12,117",220407
+https://github.com/internetarchive/heritrix3,crawler,1708,"2,153",74691
+https://github.com/jenkinsci/java-client-api,server,635,538,10527
+https://github.com/openmrs/openmrs-core,web framework,870,"10,911",159323
+https://github.com/dianping/pigeon,networking,744,"1,854",62854
+https://github.com/hibernate/hibernate-ogm,orm,294,"3,611",101500
+https://github.com/aws/aws-sdk-java,paas,3242,"2,475",8985253
+https://github.com/kohsuke/jenkins,server,984,"27,278",241855
+https://github.com/graknlabs/grakn,database,2040,"4,273",109362
+https://github.com/apereo/java-cas-client,http client,648,909,14108
+https://github.com/goldmansachs/gs-collections,utility,1776,912,286745
+https://github.com/flyway/flyway,database,5034,"2,443",17209
+https://github.com/funktionio/funktion-connectors,paas,316,545,140357
+https://github.com/resty-gwt/resty-gwt,utility,290,900,17441
+https://github.com/uber/AthenaX,platform,1108,19,6320
+https://github.com/BroadleafCommerce/BroadleafCommerce,platform,1354,"16,487",291605
+https://github.com/ysc/QuestionAnsweringSystem,miscellaneous,1627,183,6609
+https://github.com/mapstruct/mapstruct,bean mapping,2508,"1,337",78687
+https://github.com/SonarSource/sonar-java,code analysis,618,"6,800",450741
+https://github.com/pwm-project/pwm,miscellaneous,557,"2,641",170214
+https://github.com/spring-projects/spring-security-oauth,miscellaneous,4053,"1,373",53983
+https://github.com/indeedeng/proctor,testing framework,335,"1,869",18728
+https://github.com/58code/Argo,web framework,849,25,11885
+https://github.com/OryxProject/oryx,machine learning,1697,"1,107",119727
+https://github.com/nathanmarz/storm-contrib,distributed system,589,238,2040
+https://github.com/fusesource/mqtt-client,http client,1080,160,4855
+https://github.com/qos-ch/logback,logging,1859,"3,954",98458
+https://github.com/apache/jackrabbit-oak,database,302,"16,707",498549
+https://github.com/yusuke/twitter4j,miscellaneous,2450,"2,318",35048
+https://github.com/kohlschutter/boilerpipe,crawler,931,188,5436
+https://github.com/XiaoMi/chronos,data structures,375,20,3940
+https://github.com/winder/Universal-G-Code-Sender,miscellaneous,1017,"2,673",50490
+https://github.com/Sloeber/arduino-eclipse-plugin,platform,334,"2,090",32114
+https://github.com/simon987/Much-Assembly-Required,miscellaneous,848,402,102577
+https://github.com/konsoletyper/teavm,miscellaneous,1434,"2,416",200614
+https://github.com/aragozin/jvm-tools,jvm and jdk,2687,365,34616
+https://github.com/oldmanpushcart/greys-anatomy,jvm and jdk,3404,653,11283
+https://github.com/apache/calcite,miscellaneous,1811,"4,080",313489
+https://github.com/apache/mina,networking,744,"2,401",25254
+https://github.com/dbpedia-spotlight/dbpedia-spotlight,database,717,"1,138",35962
+https://github.com/confluentinc/ksql,database,3341,"6,538",55394
+https://github.com/graphhopper/jsprit,utility,1023,"2,093",71649
+https://github.com/takari/polyglot-maven,miscellaneous,695,759,33345
+https://github.com/dain/leveldb,utility,1183,228,12971
+https://github.com/before/uadetector,utility,231,705,131672
+https://github.com/opennetworkinglab/onos,miscellaneous,776,"14,757",898430
+https://github.com/spring-projects/spring-data-book,miscellaneous,1054,210,13315
+https://github.com/myabc/markdownj,utility,432,101,3015
+https://github.com/mpetazzoni/ttorrent,utility,1162,942,7051
+https://github.com/my2iu/Jinq,database,571,539,26973
+https://github.com/jaxio/celerio-angular-quickstart,code generators,481,281,17947
+https://github.com/Stratio/cassandra-lucene-index,miscellaneous,572,"1,114",37629
+https://github.com/kaaproject/kaa,platform,1200,"6,771",322851
+https://github.com/oshi/oshi,utility,1535,"1,364",21659
+https://github.com/pholser/junit-quickcheck,testing framework,753,915,27463
+https://github.com/square/wire,data structures,3110,"2,362",39773
+https://github.com/gephi/gephi,utility,3786,"4,625",129260
+https://github.com/alibaba/taokeeper,monitoring,1008,40,9831
+https://github.com/Libresonic/libresonic,NA,,,56516
+https://github.com/zhangkaitao/servlet3-showcase,server,608,20,5973
+https://github.com/espertechinc/esper,miscellaneous,609,"1,039",541006
+https://github.com/OpenNMS/opennms,platform,496,"45,484",3210147
+https://github.com/clun/ff4j,miscellaneous,731,968,71246
+https://github.com/allure-framework/allure1,testing framework,730,"1,380",27088
+https://github.com/apache/tinkerpop,miscellaneous,1093,"16,356",176416
+https://github.com/Pi4J/pi4j,utility,1157,"1,029",38776
+https://github.com/undertow-io/undertow,server,2709,"4,792",137199
+https://github.com/apache/flume,logging,1937,"1,812",98366
+https://github.com/redisson/redisson,database,12875,"5,633",95465
+https://github.com/rancher/cattle,miscellaneous,555,"6,412",194736
+https://github.com/hector-client/hector,http client,650,"2,161",33131
+https://github.com/mttkay/signpost,messaging,561,157,3929
+https://github.com/borball/weixin-sdk,miscellaneous,818,299,18099
+https://github.com/senseidb/zoie,search,350,524,18278
+https://github.com/la-team/light-admin,gui,637,826,80969
+https://github.com/apache/nifi,platform,2012,"5,767",657128
+https://github.com/alibaba/java-dns-cache-manipulator,utility,518,157,2638
+https://github.com/infinispan/infinispan,database,798,"12,904",639449
+https://github.com/GoogleCloudPlatform/DataflowJavaSDK,platform,853,"2,332",4159
+https://github.com/spring-cloud/spring-cloud-aws,platform,422,"1,467",26738
+https://github.com/decebals/pippo,web framework,725,"1,361",23310
+https://github.com/ahmetaa/zemberek-nlp,natural language propocssing,784,"1,326",50669
+https://github.com/looly/hutool,utility,11956,616,57078
+https://github.com/alibaba/jstorm,platform,3926,333,251977
+https://github.com/jan-molak/jenkins-build-monitor-plugin,server,671,460,33443
+https://github.com/openscoring/openscoring,rest frameworks,505,548,4288
+https://github.com/apache/wicket,web framework,508,"20,855",290917
+https://github.com/ltsopensource/light-task-scheduler,distributed system,2629,"1,047",97841
+https://github.com/consulo/consulo,platform,594,"104,982",1284509
+https://github.com/ippontech/tatami,networking,325,"3,942",299632
+https://github.com/networknt/light-4j,miscellaneous,2767,"1,309",30540
+https://github.com/aaberg/sql2o,database,981,648,9534
+https://github.com/intel-hadoop/HiBench,performance,990,"1,492",24823
+https://github.com/google/truth,testing framework,2036,"1,477",29652
+https://github.com/stoicflame/enunciate,miscellaneous,444,"2,405",144745
+https://github.com/hypercube1024/firefly,web framework,270,"2,225",101135
+https://github.com/spring-cloud-incubator/spring-cloud-kubernetes,distributed system,2119,594,8152
+https://github.com/kiegroup/optaplanner,configuration,1544,"7,286",2994098
+https://github.com/streamsets/datacollector,distributed system,956,"9,825",834907
+https://github.com/peter-lawrey/Java-Chronicle,database,1156,306,20509
+https://github.com/alibaba/otter,database,5772,139,90564
+https://github.com/uber/chaperone,utility,630,6,11613
+https://github.com/apache/shiro,security,2953,"1,992",45882
+https://github.com/apache/hive,database,3111,"14,377",1685868
+https://github.com/knightliao/disconf-demos-java,demo,381,68,2211
+https://github.com/apache/kylin,distributed system,2622,"8,213",210015
+https://github.com/Hive2Hive/Hive2Hive,sync,448,"1,991",28707
+https://github.com/blockchain/thunder,NA,422,439,17334
+https://github.com/ObjectLayout/ObjectLayout,NA,393,235,10368
+https://github.com/gchq/Gaffer,database,1575,"6,693",163342
+https://github.com/zstackio/zstack,laas,843,"9,276",643043
+https://github.com/apache/rocketmq,messaging,10790,"1,335",76610
+https://github.com/apache/zeppelin,web application,4667,"4,494",188362
+https://github.com/YahooArchive/samoa,platform,425,314,27864
+https://github.com/timmolter/XChart,Science,931,"1,234",18547
+https://github.com/rakam-io/rakam,platform,765,"1,754",56261
+https://github.com/normanmaurer/netty-in-action,application,1521,79,3375
+https://github.com/im-qq/iqq,chating application,600,45,6460
+https://github.com/scouter-project/scouter,performance,1564,"2,673",252759
+https://github.com/kamilfb/mqtt-spy,mqtt,337,347,42188
+https://github.com/Esri/spatial-framework-for-hadoop,data management,277,369,8839
+https://github.com/confluentinc/schema-registry,schema registry,1211,"2,633",19168
+https://github.com/cschneider/Karaf-Tutorial,osgi containers,242,340,11547
+https://github.com/roundrop/facebook4j,social network clients,309,701,128355
+https://github.com/OpenHFT/Java-Thread-Affinity,performance,1012,398,4335
+https://github.com/Alluxio/alluxio,machine learning,4576,"30,886",308638
+https://github.com/apache/cloudstack,platform,855,"32,425",1195886
+https://github.com/igniterealtime/Openfire,server,2125,"9,358",454041
+https://github.com/timmolter/XChange,utility,2899,"8,956",421809
+https://github.com/eclipse/paho.mqtt.java,mqtt,1211,806,28419
+https://github.com/snakerflow/snakerflow,engine,603,121,12697
+https://github.com/mybatis/spring-boot-starter,database,2947,611,3271
+https://github.com/JanusGraph/janusgraph,graph database,3269,"6,028",236705
+https://github.com/blynkkk/blynk-server,platform,1781,"4,832",57142
+https://github.com/reficio/soap-ws,web framework,268,214,18494
+https://github.com/magefree/mage,engine,1046,"30,397",1138626
+https://github.com/GoogleCloudPlatform/google-cloud-java,paas,1412,"4,875",1629697
+https://github.com/jclouds/legacy-jclouds,paas,477,"8,048",367595
+https://github.com/spring-projects/spring-data-rest,web framework,678,"1,253",24633
+https://github.com/mdeverdelhan/ta4j-origins,technical analysis,350,463,12523
+https://github.com/apache/camel,messaging,3204,"44,616",1331103
+https://github.com/SpigotMC/BungeeCord,server,849,"1,669",16967
+https://github.com/debezium/debezium,database,3071,"2,852",410814
+https://github.com/rometools/rome,rss and atom libraries,614,669,54365
+https://github.com/netty/netty,networking,23314,"9,831",259429
+https://github.com/square/moshi,json,6057,811,17687
+https://github.com/guoguibing/librec,utility,2712,"1,077",26653
+https://github.com/atomix/atomix,distributed system,1873,"4,265",68516
+https://github.com/spring-guides/tut-spring-boot-oauth2,web framework,643,101,1786
+https://github.com/geotools/geotools,geospatial,925,"8,273",1766639
+https://github.com/eclipse/jetty.project,server,2848,"20,670",521884
+https://github.com/alibaba/dubbo,networking,32048,"4,286",106582
+https://github.com/melin/super-diamond,configuration,530,252,19334
+https://github.com/yammer/tenacity,rest frameworks,207,839,7113
+https://github.com/forge/roaster,parser library,428,690,22093
+https://github.com/protostuff/protostuff,code generators,1397,"1,545",73877
+https://github.com/square/retrofit,http client,35474,"1,827",22513
+https://github.com/ios-driver/ios-driver,ios-driver,372,"1,796",272924
+https://github.com/davidmoten/geo,geospatial,309,363,2262
+https://github.com/qalingo/qalingo-engine,engine,296,"1,866",116605
+https://github.com/ninjaframework/ninja,web framework,1869,"2,093",44387
+https://github.com/spring-projects/spring-batch-admin,runtime ,260,469,20036
+https://github.com/eclipse/eclipse-collections,performance,1383,"1,177",320794
+https://github.com/brendano/ark-tweet-nlp,natural language propocssing,564,197,22303
+https://github.com/deeplearning4j/nd4j,machine learning,1652,"7,021",236441
+https://github.com/crawljax/crawljax,web application,423,"1,501",48699
+https://github.com/spotify/heroic,database,770,"1,247",59833
+https://github.com/ocpsoft/prettytime,utility,1086,327,15322
+https://github.com/citiususc/hipster,utility,289,746,8650
+https://github.com/RUB-NDS/TLS-Attacker,networking,538,"4,447",80787
+https://github.com/QSFT/Doradus,rest frameworks,201,840,85219
+https://github.com/psi-probe/psi-probe,monitoring,1072,"2,944",42480
+https://github.com/google/guice,dependency injection,9214,"1,752",148473
+https://github.com/spotify/helios,distributed system,2032,"2,448",51507
+https://github.com/kohsuke/args4j,cli,675,618,5898
+https://github.com/forcedotcom/phoenix,database,563,"1,982",100795
+https://github.com/swagger-api/swagger-core,rest frameworks,6316,"3,704",50083
+https://github.com/RobotiumTech/robotium,testing framework,2638,"1,197",6738
+https://github.com/hcoles/pitest,jvm and jdk,1015,"1,718",53594
+https://github.com/lwjglgamedev/lwjglbook,cookbooks,368,169,37704
+https://github.com/spring-cloud/spring-cloud-gateway,web framework,2360,"1,524",17043
+https://github.com/tomighty/tomighty,application,855,359,6080
+https://github.com/apache/hbase,distributed system,3458,"17,555",795144
+https://github.com/RichardWarburton/lambda-behave,testing framework,238,195,4423
+https://github.com/brianfrankcooper/YCSB,performance,3014,"1,276",27861
+https://github.com/github/maven-plugins,build,545,231,2325
+https://github.com/apache/drill,orm,1375,"3,853",636717
+https://github.com/baidu/Jprotobuf-rpc-socket,networking,415,439,13653
+https://github.com/Baeldung/spring-security-oauth,web framework,1257,342,25793
+https://github.com/apache/struts,web framework,1003,"5,866",208006
+https://github.com/rapidoid/rapidoid,rest frameworks,1505,"5,200",70247
+https://github.com/Dreampie/Resty,rest frameworks,1265,639,19612
+https://github.com/tdunning/t-digest,data structures,1167,335,45012
+https://github.com/fusesource/jansi,cli,701,339,5651
+https://github.com/RaiMan/SikuliX-2014,application,826,"2,397",147717
+https://github.com/stormpath/stormpath-sdk-java,rest frameworks,220,"3,793",111741
+https://github.com/zhegexiaohuozi/SeimiCrawler,crawler,1594,257,4668
+https://github.com/Activiti/Activiti,platform,6525,"10,621",207508
+https://github.com/GoClipse/goclipse,ide,825,"2,925",56487
+https://github.com/linux-china/spring-boot-dubbo,networking,286,241,1455
+https://github.com/zeromq/jzmq,language binding,559,654,8452
+https://github.com/write2munish/Akka-Essentials,cookbooks,693,179,8695
+https://github.com/apache/parquet-mr,data structures,1065,"2,175",89239
+https://github.com/prometheus/jmx_exporter,monitoring,1386,247,2455
+https://github.com/apache/mahout,machine learning,1817,"4,394",161174
+https://github.com/awaitility/awaitility,asynchronous,2063,676,6805
+https://github.com/spring-projects/spring-data-mongodb,database,1132,"2,845",119914
+https://github.com/sockeqwe/fragmentargs,code generators,1075,182,3204
+https://github.com/zhangxd1989/springboot-dubbox,distributed system,894,12,7099
+https://github.com/apache/logging-log4j2,logging,935,"10,984",180286
+https://github.com/eugenp/REST-With-Spring,rest frameworks,669,517,9590
+https://github.com/rhuss/jolokia,monitoring,674,"1,622",60993
+https://github.com/jwpttcg66/NettyGameServer,server,990,812,38181
+https://github.com/togglz/togglz,miscellaneous,583,758,23299
+https://github.com/crashub/crash,jvm and jdk,880,"1,988",53432
+https://github.com/itext/itextpdf,pdf,1139,"4,410",435254
+https://github.com/protegeproject/protege,utility,546,"4,005",85638
+https://github.com/OpenGamma/Strata,monitoring,509,"4,134",439070
+https://github.com/ivan-vasilev/neuralnetworks,machine learning,1222,351,110016
+https://github.com/jsimone/webapp-runner,runtime ,302,498,1984
+https://github.com/Atmosphere/atmosphere,networking,3426,"5,905",38736
+https://github.com/jawi/ols,logic analyzer,285,998,54432
+https://github.com/snazy/ohc,performance,479,408,17187
+https://github.com/kite-sdk/kite,cookbooks,367,"2,497",296633
+https://github.com/zhangkaitao/spring4-showcase,resources,383,46,7517
+https://github.com/YahooArchive/oozie,scheduler,378,364,87662
+https://github.com/shopizer-ecommerce/shopizer,application,1574,532,182095
+https://github.com/lukas-krecan/JsonUnit,json,419,775,8994
+https://github.com/prometheus/client_java,jvm and jdk,1202,418,10548
+https://github.com/shunfei/indexr,database,422,130,47002
+https://github.com/facebook/jcommon,utility,667,350,34423
+https://github.com/DigitalPebble/storm-crawler,crawler,630,"1,505",17036
+https://github.com/j-easy/easy-batch,framework,424,"1,877",21602
+https://github.com/jamesdbloom/mockserver,networking,2596,"2,727",84366
+https://github.com/relayrides/pushy,messaging,1167,"1,478",7804
+https://github.com/HubSpot/Singularity,scheduler,773,"11,472",118448
+https://github.com/HotswapProjects/HotswapAgent,jvm and jdk,1473,731,68137
+https://github.com/yasserg/crawler4j,crawler,3888,513,7288
+https://github.com/cybergarage/cybergarage-upnp,networking,276,243,24301
+https://github.com/apache/tika,natural language propocssing,979,"4,724",136742
+https://github.com/prestodb/presto,database,10415,"17,267",663368
+https://github.com/xujeff/tianti,application,1018,193,140666
+https://github.com/eclipse/jgit,utility,854,"7,818",207162

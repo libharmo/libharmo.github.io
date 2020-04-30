@@ -100,3 +100,7 @@ A report automatically generated for project [vladmihalcea flexy-pool](vladmihal
 
 A report automatically generated for project [Stratio cassandra-lucene-index](Stratio cassandra-lucene-index.pdf) that contains two library false consistencies.
 
+### Evaluated Projects
+
+[projects.csv](projects.csv)
+
