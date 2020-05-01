@@ -102,5 +102,15 @@ A report automatically generated for project [Stratio cassandra-lucene-index](St
 
 ### Evaluated Projects
 
-[projects.csv](projects.csv)
+You can get project data [here](projects.csv).
+
+![LOC](LOC.png)
+
+
+
+![commits](commits.png)
+
+
+
+![star](stars.png)
 
