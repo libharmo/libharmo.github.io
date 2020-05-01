@@ -104,6 +104,8 @@ A report automatically generated for project [Stratio cassandra-lucene-index](St
 
 Detailed project statistics about domain category, lines of code, number of commits and number of stars are available  [here](projects.csv).
 
+![domain](domain.png)
+
 ![LOC](loc.png)
 
 
