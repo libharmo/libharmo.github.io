@@ -104,7 +104,7 @@ A report automatically generated for project [Stratio cassandra-lucene-index](St
 
 You can get project data [here](projects.csv).
 
-![LOC](LOC.png)
+![LOC](loc.png)
 
 
 
