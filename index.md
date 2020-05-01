@@ -100,9 +100,9 @@ A report automatically generated for project [vladmihalcea flexy-pool](vladmihal
 
 A report automatically generated for project [Stratio cassandra-lucene-index](Stratio cassandra-lucene-index.pdf) that contains two library false consistencies.
 
-### Evaluated Projects
+### Project Statistics
 
-You can get project data [here](projects.csv).
+Detailed project statistics about domain category, lines of code, number of commits and number of stars are available  [here](projects.csv).
 
 ![LOC](loc.png)
 
